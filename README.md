@@ -3,10 +3,7 @@
 Hello! I'm Umezinwa John.
 ![](https://komarev.com/ghpvc/?username=jhonchampion)
 ![](https://komarev.com/ghpvc/?username=jhonchampion&color=orange)
-![](https://komarev.com/ghpvc/?username=jhonchampion&style=plastic)
-![](https://komarev.com/ghpvc/?username=jhonchampion&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=jhonchampion&base=1000)
-![](https://komarev.com/ghpvc/?username=jhonchampion&abbreviated=true)
+
 
 **Skills:**
 - Healthcare Data Analysis
