@@ -1,8 +1,10 @@
 
 
 Hello! I'm Umezinwa John.
-![](https://komarev.com/ghpvc/?username=jhonchampion)
+
+
 ![](https://komarev.com/ghpvc/?username=jhonchampion&color=orange)
+
 
 
 **Skills:**
