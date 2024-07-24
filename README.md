@@ -1,6 +1,12 @@
 
 
-Hello! I'm Umezinwa John, a healthcare professional passionate about leveraging data to improve patient care. My background in veterinary medicine and enthusiasm for healthcare data drives my work in data analysis and innovative solutions.
+Hello! I'm Umezinwa John.
+![](https://komarev.com/ghpvc/?username=jhonchampion)
+![](https://komarev.com/ghpvc/?username=jhonchampion&color=orange)
+![](https://komarev.com/ghpvc/?username=jhonchampion&style=plastic)
+![](https://komarev.com/ghpvc/?username=jhonchampion&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=jhonchampion&base=1000)
+![](https://komarev.com/ghpvc/?username=jhonchampion&abbreviated=true)
 
 **Skills:**
 - Healthcare Data Analysis
