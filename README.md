@@ -1,7 +1,7 @@
 ## Hi 👋, I'm John Umezinwa
 A healthcare professional with a keen interest in healthcare data, currently focused on learning and expanding my skills in data analysis to transform healthcare practices and improve patient outcomes.
 
- My skillsets include (but are not limited to);
+ My skillsets include (but are not limited to) ;
 
 -  <img height="16" width="16" src="https://cdn.simpleicons.org/googlesheets/green" /> Excel &emsp;
   <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/blue" /> SQL &emsp;
