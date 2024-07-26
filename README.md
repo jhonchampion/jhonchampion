@@ -6,7 +6,8 @@ A healthcare professional with a keen interest in healthcare data, currently foc
 -  <img height="16" width="16" src="https://cdn.simpleicons.org/googlesheets/green" /> Excel &emsp;
   <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/blue" /> SQL &emsp;
  <img height="16" width="16" src="https://cdn.simpleicons.org/python/00ccff99" /> Python &emsp;
- <img height="16" width="16" src="https://cdn.simpleicons.org/tableau/00ccff" /> Tableau
+ <img height="16" width="16" src="https://cdn.simpleicons.org/tableau/00ccff" /> Tableau &emsp;
+ <img height="16" width="16" src="https://cdn.simpleicons.org/jupyter/0cf9" /> Jupyter Notebook
 
 
 On my GitHub, you’ll find projects focused on:
