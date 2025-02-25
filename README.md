@@ -12,7 +12,7 @@ A healthcare professional skilled in Data Analytics.
 On my GitHub, you’ll find projects focused on:
 - 👩‍💻 Analyzing data for actionable insights
 - 🧰 Creating tools to enhance both business and healthcare delivery
-- 👨‍🏫 Sharing knowledge on data-driven insighta
+- 👨‍🏫 Sharing knowledge on data-driven insights
 
 - 🤝I'm always open to collaboration and new ideas. Let’s use data to make a difference in healthcare together!
 
