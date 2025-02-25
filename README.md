@@ -1,5 +1,5 @@
 ## Hi 👋, I'm John Umezinwa
-A healthcare professional skilled in Data Analytics.
+A professional with a Background in healthcare, currently skilled in Data Analytics to solve problems.
 
  My skillsets include (but are not limited to) ;
 
