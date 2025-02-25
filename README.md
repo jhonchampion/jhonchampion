@@ -4,9 +4,10 @@ A healthcare professional skilled in Data Analytics.
  My skillsets include (but are not limited to) ;
 
 -  <img height="16" width="16" src="https://cdn.simpleicons.org/googlesheets/green" /> Excel &emsp;
-  <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/blue" /> SQL &emsp;
- <img height="16" width="16" src="https://cdn.simpleicons.org/python/00ccff99" /> Python &emsp;
- <img height="16" width="16" src="https://cdn.simpleicons.org/jupyter/0cf9" /> Jupyter Notebook
+- <img height="16" width="16" src="https://cdn.simpleicons.org/Soundcharts/f6d958" /> PowerBI &emsp;
+- <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/00ccff99" /> SQL &emsp;
+- <img height="16" width="16" src="https://cdn.simpleicons.org/python/00ccff99" /> Python &emsp;
+- <img height="16" width="16" src="https://cdn.simpleicons.org/jupyter/0cf9" /> Jupyter Notebook
 
 
 On my GitHub, you’ll find projects focused on:
