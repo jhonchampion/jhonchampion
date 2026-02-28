@@ -1,22 +1,31 @@
-## Hi 👋, I'm John Umezinwa
-A professional with a Background in healthcare, currently skilled in Data Analytics to solve problems.
+# Hi 👋, I’m John Umezinwa
 
- My skillsets include (but are not limited to) ;
+A Data Analyst and Monitoring & Evaluation Specialist with a background in healthcare, focused on designing data systems that drive measurable impact. I build end-to-end analytics solutions — from data collection and transformation to automated reporting and decision-support dashboards.
 
--  <img height="16" width="16" src="https://cdn.simpleicons.org/googlesheets/green" /> Excel &emsp;
-- <img height="16" width="16" src="https://cdn.simpleicons.org/Soundcharts/f6d958" /> PowerBI / Looker Studio &emsp;
-- <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/00ccff99" /> SQL &emsp;
-- <img height="16" width="16" src="https://cdn.simpleicons.org/python/00ccff99" /> Python (Pandas, Matplotlib, Seaborn, Plotly, etc) &emsp;
-- <img height="16" width="16" src="https://cdn.simpleicons.org/jupyter/0cf9" /> Jupyter Notebook
+My work spans government-backed programs, startup ecosystem evaluation, and impact measurement systems, where I design KPI frameworks, build scalable data pipelines, and automate longitudinal performance tracking.
 
 
-On my GitHub, you’ll find projects focused on:
-- 👩‍💻 Analyzing data for actionable insights
-- 🧰 Creating tools to enhance both business and healthcare delivery
-- 👨‍🏫 Sharing knowledge on data-driven insights
+## 🛠 Core Skills & Technologies
+```
+✔ Data Analysis & Modeling: SQL (BigQuery), Excel
+✔ Data Warehousing & Transformation: BigQuery (Views, Scheduled Queries, KPI Aggregations)
+✔ Visualization & Reporting: Looker Studio, Power BI
+✔ Automation & Scripting: Google Apps Script
+✔ Programming: Python (Pandas, Matplotlib, Seaborn, Plotly), R
+```
 
-- 🤝I'm always open to collaboration and new ideas. Let’s use data to make a difference in healthcare together!
+### 🔎 On My GitHub, You’ll Find Projects Focused On:
+- 📊 Designing automated Monitoring & Evaluation (M&E) systems
+- 📈 Longitudinal impact tracking (baseline–midline–endline analytics)
+- 🧠 KPI modeling and performance benchmarking
+- ⚙️ Building data pipelines from raw collection to dashboard automation
+- 🏥 Applying analytics to healthcare and development-focused programs
 
+### 🤝 Let’s Connect
+
+I’m open to collaborating on projects involving impact analytics, program evaluation, data pipeline design, and performance measurement systems.
+
+Let’s use data to drive better decisions and measurable change.
 
   
 
