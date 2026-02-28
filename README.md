@@ -4,7 +4,7 @@ A professional with a Background in healthcare, currently skilled in Data Analyt
  My skillsets include (but are not limited to) ;
 
 -  <img height="16" width="16" src="https://cdn.simpleicons.org/googlesheets/green" /> Excel &emsp;
-- <img height="16" width="16" src="https://cdn.simpleicons.org/Soundcharts/f6d958" /> PowerBI &emsp;
+- <img height="16" width="16" src="https://cdn.simpleicons.org/Soundcharts/f6d958" /> PowerBI / Looker Studio &emsp;
 - <img height="16" width="16" src="https://cdn.simpleicons.org/amazondynamodb/00ccff99" /> SQL &emsp;
 - <img height="16" width="16" src="https://cdn.simpleicons.org/python/00ccff99" /> Python (Pandas, Matplotlib, Seaborn, Plotly, etc) &emsp;
 - <img height="16" width="16" src="https://cdn.simpleicons.org/jupyter/0cf9" /> Jupyter Notebook
